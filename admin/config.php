@@ -11,7 +11,7 @@ define('HTTPS_CATALOG', 'http://localhost/');
 define('DIR_APPLICATION', 'C:/laragon/www4/admin/');
 define('DIR_SYSTEM', 'C:/laragon/www4/system/');
 define('DIR_IMAGE', 'C:/laragon/www4/image/');
-define('DIR_STORAGE', DIR_SYSTEM . 'storage/');
+define('DIR_STORAGE', 'C:/laragon/storage/');
 define('DIR_CATALOG', 'C:/laragon/www4/catalog/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/template/');
