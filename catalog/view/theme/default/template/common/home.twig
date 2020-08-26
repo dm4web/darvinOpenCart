@@ -1,4 +1,11 @@
 {{ header }}
+<div class="latest-darvin">
+  <div> {% for product in products_darvin %}
+    <div> {{ product.name }} </div>
+    <div> <img src="{{ product.thumb }}"> </div>
+<div> <a href=" {{ product.href }}">{{ product.name}}</a> </div>
+  {% endfor %} </div>
+</div>
 <div id="common-home" class="container">
   <div class="row">{{ column_left }}
     {% if column_left and column_right %}
