@@ -1,0 +1,12 @@
+2020-08-23 20:56:23 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'database' in C:\laragon\www4\system\library\db\mysqli.php on line 7
+2020-08-23 20:56:23 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\laragon\www4\system\library\db\mysqli.php on line 10
+2020-08-23 20:56:23 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\laragon\www4\system\library\db\mysqli.php on line 10
+2020-08-23 20:57:12 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'database' in C:\laragon\www4\system\library\db\mysqli.php on line 7
+2020-08-23 20:57:12 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\laragon\www4\system\library\db\mysqli.php on line 10
+2020-08-23 20:57:12 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\laragon\www4\system\library\db\mysqli.php on line 10
+2020-08-23 20:57:17 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'database' in C:\laragon\www4\system\library\db\mysqli.php on line 7
+2020-08-23 20:57:17 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\laragon\www4\system\library\db\mysqli.php on line 10
+2020-08-23 20:57:17 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\laragon\www4\system\library\db\mysqli.php on line 10
+2020-08-23 20:57:21 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'database' in C:\laragon\www4\system\library\db\mysqli.php on line 7
+2020-08-23 20:57:21 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\laragon\www4\system\library\db\mysqli.php on line 10
+2020-08-23 20:57:21 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\laragon\www4\system\library\db\mysqli.php on line 10
